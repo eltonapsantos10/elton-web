@@ -1,0 +1,53 @@
+h1 {
+font-family: cursive;
+color:#212529;
+text-align: center;
+
+}
+
+p {
+font-family: cursive;  
+font-size: 25px;  
+color:gray;
+
+}
+
+.card-10 {
+display: inline-flex;
+padding: 50px;
+margin-left:  170px;
+
+}
+
+.card-10 img{
+height: 150px;
+}
+
+.texto h1 {
+text-align: center;
+color:#212529;
+}
+
+.texto p{
+text-align: center;
+
+}
+
+
+.final2{
+padding-left: 30em;
+margin-top: -17.5em;
+
+}
+
+.icones {
+padding-left: 80em;
+margin-top: -17.5em;
+}
+
+
+footer {
+background-color: grey;
+height: 30em;
+
+}
